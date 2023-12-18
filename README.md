@@ -4,7 +4,7 @@
 
 Oracle Hi-fi 프로토타입을 안드로이드 기기에서 실행하기 위해서는 다음의 단계를 따라주세요:
 
-1. [여기](http://example.com/download)를 클릭하여 Flutter APK 파일을 다운로드합니다.
+1. [여기](https://heavengeneral1203.wixsite.com/oracle/about-5)를 클릭하여 Flutter APK 파일을 다운로드합니다.
 2. 다운로드한 APK 파일을 안드로이드 기기에 전송합니다.
 3. 기기의 `설정` > `보안` 메뉴로 이동하여 `알 수 없는 출처의 앱 설치`를 허용합니다.
 4. APK 파일을 탭하여 설치를 시작합니다.
